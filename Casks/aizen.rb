@@ -1,6 +1,6 @@
 cask "aizen" do
-  version "0.1.8"
-  sha256 "c177c0736fe673e4ccdb727d67d6eaf6c5a55a2794a37dd4d7a6b729d784707f"
+  version "0.2.1"
+  sha256 "a0c83517a52b9d290381d41707f2fdae8d50336af3660e15af09dde866281efc"
 
   url "https://github.com/DarthBenro008/aizen/releases/download/v#{version}/aizen-#{version}.zip"
   name "aizen"
